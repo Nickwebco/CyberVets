@@ -1,1 +1,1 @@
-# CyberVets
+I am Nick Weber. I graduated University of Colorado, Colorado Spring with a degree in Bachelor's in Mechanical Engineering and minors in Mathematics and Aerospace Engineering. I have served in the United States Navy as a Civil Engineer Corps Officer for 7 years. I am currently involved with CyberVets where we are exploring Cyber Security. I am building my fundamentals and knowledge to transition into the Cyber Security Field.
