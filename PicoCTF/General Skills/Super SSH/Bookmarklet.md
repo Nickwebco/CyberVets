@@ -9,4 +9,15 @@ Pico Brower Link: http://titan.picoctf.net:51073/
 
 # Solution
 
+Click the brower link and it will open this page.
 
+![browser](https://github.com/Nickwebco/CyberVets/blob/main/PicoCTF/General%20Skills/Super%20SSH/images/Browser.png?raw=true)
+
+Click inside the scroll window and it will copy the code to your clipboard.
+
+Press ctrl + shift + I to enter inspection mode.  
+Copy the javascript into the console and run for the flag
+
+
+
+picoCTF{p@g3_turn3r_0c0d211f}
