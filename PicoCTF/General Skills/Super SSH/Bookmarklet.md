@@ -7,3 +7,6 @@ Pico Brower Link: http://titan.picoctf.net:51073/
 - What happens when you click a bookmarklet?
 - Web browsers have other ways to run JavaScript too.
 
+# Solution
+
+
