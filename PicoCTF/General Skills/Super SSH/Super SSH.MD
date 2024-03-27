@@ -9,4 +9,6 @@
 - Remember, passwords are hidden when typed into the shell
 
 # Solution
+Utilize the webshell and log into the user and port.  Check the image below
 
+![webshell soln](https://github.com/Nickwebco/CyberVets/blob/main/PicoCTF/General%20Skills/Super%20SSH/images/ssh-sln.png?raw=true)
