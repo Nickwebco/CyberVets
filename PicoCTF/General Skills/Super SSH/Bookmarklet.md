@@ -18,6 +18,6 @@ Click inside the scroll window and it will copy the code to your clipboard.
 Press ctrl + shift + I to enter inspection mode.  
 Copy the javascript into the console and run for the flag
 
-
+![inspect](https://github.com/Nickwebco/CyberVets/blob/main/PicoCTF/General%20Skills/Super%20SSH/images/inspect_java.png?raw=true)
 
 picoCTF{p@g3_turn3r_0c0d211f}
