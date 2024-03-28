@@ -18,4 +18,5 @@ I noticed that there was a part under "Section" that looked like a encoded messs
 (cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfMDdiOTFjNzl9)
 
 I navigated to ChatGPT where it identified the hash as Base64 and spit out the flag.
+
 FLAG:  picoCTF{web_succ3ssfully_d3c0ded_07b91c79} 
